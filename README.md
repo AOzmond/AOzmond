@@ -5,6 +5,10 @@
 <b>Oregon, USA</b>.</p>
 <p>I am currently open to new work opportunities.</p>
 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/alastair-ozmond-108512179)
+
+
+
 ## Tools I use
 [![Asana](https://img.shields.io/badge/asana-F06A6A.svg?logo=asana&logoColor=white)](#)
 [![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)](#)
@@ -53,6 +57,8 @@ A multiplatform USB Device monitoring tool.
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
+[![GPL2License](https://img.shields.io/badge/license-GPL--2-blue)](#)
+
 
 <hr>
  <a href="https://www.flaticon.com/free-icons/scotland" title="scotland icons">Scotland icons created by Freepik - Flaticon</a>
