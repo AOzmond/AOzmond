@@ -42,6 +42,7 @@
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 [![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)](#)
+[![Wails](https://img.shields.io/badge/Wails-FF6C37?logo=wails&logoColor=white)](https://wails.io/)
 
 ## Current Projects
 ### <ins> [USB Tree](https://github.com/AOzmond/usb-tree) </ins>
