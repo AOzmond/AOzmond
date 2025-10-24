@@ -49,7 +49,7 @@
 
 A multiplatform USB Device monitoring tool.
 
-<img width="449" height="472" alt="image" src="https://github.com/user-attachments/assets/fee7eb4e-4094-43f6-85e5-7f51612b0853" />
+<img width="452" height="469" alt="usb tree program" src="https://github.com/user-attachments/assets/1b207a7c-9962-4e41-9c2f-0c5518907d26" />
 
 [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
