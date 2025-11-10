@@ -45,7 +45,7 @@
 [![Wails](https://img.shields.io/badge/Wails-FF6C37?logo=wails&logoColor=white)](https://wails.io/)
 
 ## Current Projects
-### <ins> [USB Tree](https://github.com/AOzmond/usb-tree) </ins>
+### <ins> [USB Tree](https://usb-tree.github.io/) </ins>
 
 A multiplatform USB Device monitoring tool.
 
